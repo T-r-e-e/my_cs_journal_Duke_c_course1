@@ -16,6 +16,13 @@
 
 例如 printf 功能为将所需要的东西打印在屏幕
 
+声明函数方法如下
+
+例 int myfunction （intx，inty）｛              这里int为函数返回/输出的数据类型 myfuction为名称
+        …                                     int x和int y 是这个函数所需的参数 
+        return    ；                          return后的数据是答案 它将返回调用这个函数的东西的位置
+        ｝
+
 & 条件语句
 
 if/else  if(   ){                        作用 如果达成（）内条件 则执行｛｝内任务
